@@ -3,7 +3,11 @@ body {
     margin: 0;
     background: #f4f3ee;
 }
-
+#title{
+    text-align:center;
+    color:white;
+    text-shadow: 0px 0px 2px black;
+}
 .team{
     font-family: 'Verdana';
     text-align:center;
