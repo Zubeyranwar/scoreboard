@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+
+:root{
+    --primary-color:#fff;
+    --secondary-color:#fff;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+/* LAYOUT */
+.nav-bar{
+    display: flex;
+}
+
+
+
+
